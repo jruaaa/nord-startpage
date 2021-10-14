@@ -85,7 +85,7 @@ let CONFIG = {
     {
       category: 'Read',
       name: 'Gmail',
-      key: 'g',
+      key: 'gm',
       url: 'https://mail.google.com/mail/u/1',
       search: '',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',

@@ -47,7 +47,7 @@ let CONFIG = {
       category: 'Code',
       name: 'Slack',
       key: 's',
-      url: 'https://mir5937.slack.com/ssb/redirect',
+      url: 'https://app.slack.com/client/TES0YASTS/CESHPA3T6',
       search: '',
       color: 'linear-gradient(135deg, #000000, #000000, #000000)',
       icon: 'drive',
